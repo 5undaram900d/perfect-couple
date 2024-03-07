@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190021722769",
+    "project_id": "perfect-couple-app",
+    "storage_bucket": "perfect-couple-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190021722769:android:58b8d80d6000fff0d55530",
+        "android_client_info": {
+          "package_name": "com.example.perfect_couple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmuRHMoId9tdU8fgONUFOEKCPC2bqIDNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
